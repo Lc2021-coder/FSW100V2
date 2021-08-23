@@ -1,0 +1,9 @@
+.header {
+	text-decoration: blue;
+}
+
+
+.table, th, td, tr {
+	border:   solid black; 
+	border: 1px;
+}
